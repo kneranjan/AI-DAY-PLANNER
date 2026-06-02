@@ -1,7 +1,7 @@
 #impoort
 import json
 import datetime
-from AI_day_planner.ai_helper import organise_tasks
+from ai_helper import organise_tasks
 from database import save_tasks, create_table , get_today_tasks , mark_complete
 
 create_table()

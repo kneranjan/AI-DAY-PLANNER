@@ -11,8 +11,9 @@ managing their day.
 ## How to run it
 1. Clone the repo
 2. pip install -r requirements.txt
-3. Add your Gemini API key to .env file
-4. python main.py
+3. Create a .env file based on .env.example
+4. Add your Gemini API key
+5. python3 main.py
 
 ## What I learned
 Throught this project , i learned how to interact with databses in python and use API's in python.
